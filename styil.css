@@ -1,0 +1,33 @@
+div{
+
+
+
+    color:white ;
+    font-size: 60px;
+    height: 100px;
+    width: 300px;
+    position: absolute;
+
+}
+
+.one{
+    background-color: turquoise;
+    top: 50px;
+    left: 60px;
+
+}
+.two{
+    background-color: rgb(217, 255, 0);
+    top: 60px;
+    left: 50px;
+    
+
+}
+.three{
+    background-color: thistle;
+}
+
+
+
+
+

@@ -1,0 +1,71 @@
+body{
+    
+    background-image:url(../img/11.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parent{
+width:130%;
+}
+
+.logo{
+width: 10%;
+float: left;
+}
+.list{
+    width: 70%;
+    float: right;
+    background-color: rgb(0, 255, 170);
+} 
+ul li{
+    display: inline;
+    padding: 90px;
+}
+ul li a{
+    text-decoration: none;
+    
+}
+#hjj{
+    font-size: 40px;
+    
+    background-size: cover;
+    
+}
+#loo{
+    font-size: 20px;
+    background-color:burlywood;
+    background-size: covers;
+}
+#rtt{
+    font-size: 30px;
+    
+    background-size: cover;
+}
+#hzz{
+    font-size: 30px;
+    
+    background-size: cover;
+}
+#pmm{
+    font-size: 10px;
+    ;
+    background-size:cover ;
+    width: 30px;
+    height: 20px;
+}
+
+img{
+    widows: 1500px;
+    height: 200px;
+}
+.abubker{
+    width: 400px;
+    height:600px;
+    background-color: rgb(84, 194, 209);
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+.r11{
+    width: 0px;
+}

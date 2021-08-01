@@ -1,0 +1,21 @@
+.div{
+    color: darkseagreen;
+    font-size:60px;
+    width: 50px;
+    height: 80px;
+    padding: 80px;
+    background-color: dodgerblue;
+}
+.nono{
+    color: firebrick;
+    width: 60px;
+    height: 90px;
+    background-color: forestgreen;
+
+}
+.ul li{
+    color: indigo;
+    left: 5000px;
+    width: 8000px;
+    background-color: blue;
+}

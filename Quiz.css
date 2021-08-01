@@ -1,0 +1,29 @@
+.img{
+    width: 800px;
+    height: 8000px;
+    font-size: 900px;
+    background-color: goldenrod;
+
+}
+.list{
+    color: greenyellow;
+    width: 80000px;
+height: 800px;
+background-color: green;
+
+
+
+}
+.ul li{
+    color: chartreuse;
+    width: 60px;
+    height: 80px;
+    font-size: 60px;
+    background-color: hotpink;
+}
+.h1{
+        position: relative;
+     top: 40px;
+     bottom: 10px;
+}
+
